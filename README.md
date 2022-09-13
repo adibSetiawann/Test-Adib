@@ -1,2 +1,2 @@
 # Landing Page FAQ
-oleh : Adib Setiawan
+Build with Native HTMl and style with Tailwind Css
