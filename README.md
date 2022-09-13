@@ -1,2 +1,2 @@
 # Landing Page FAQ
-Build with Native HTMl and style with Tailwind Css
+Build with Native HTML and style with Tailwind Css
